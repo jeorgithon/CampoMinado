@@ -8,6 +8,7 @@ namespace projeto
         {
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Erik Teste 2'-'");
+            Console.WriteLine("Lucas - Teste");
         }
     }
 }
