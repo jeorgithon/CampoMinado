@@ -7,7 +7,7 @@ namespace projeto
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!");
-            Console.WriteLine("Erik Teste");
+            Console.WriteLine("Erik Teste 2");
         }
     }
 }
